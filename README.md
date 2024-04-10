@@ -9,7 +9,7 @@
   - [Configuring Active Directory within Azure VMs](https://github.com/thechristinaq/Implementing-Active-Directory-within-Azure-VMs)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Thechristinaq/azure-network-protocols)
 - <b>Domain Name Server (DNS)</b>
-  - [Understanding-Domain-Name-System-DNS-](https://github.com/thechristinaq/Understanding-Domain-Name-System-DNS-)
+  - [Understanding Domain Name System (DNS)](https://github.com/thechristinaq/Understanding-Domain-Name-System-DNS-)
 
 <h2>🤳Connect with me:</h2>
 
